@@ -1,12 +1,25 @@
-/* $Id: cpufreq.hpp 574 2010-10-09 11:05:33Z nicola.bonelli $ */
-/*
- * ----------------------------------------------------------------------------
- * "THE BEER-WARE LICENSE" (Revision 42):
- * <bonelli@antifork.org> wrote this file. As long as you retain this notice you
- * can do whatever you want with this stuff. If we meet some day, and you think
- * this stuff is worth it, you can buy me a beer in return. Nicola Bonelli
- * ----------------------------------------------------------------------------
+/* $Id$ */
+/* 
+ * qrt::thread++ - LGPL library 
+ *
+ * Copyright (C) 2010 Nicola Bonelli
+ *
+ * This library is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU Library General Public
+ * License as published by the Free Software Foundation; either
+ * version 2 of the License, or (at your option) any later version.
+ *
+ * This library is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ * Library General Public License for more details.
+ *
+ * You should have received a copy of the GNU Library General Public
+ * License along with this library; if not, write to the
+ * Free Software Foundation, Inc., 59 Temple Place - Suite 330,
+ * Boston, MA 02111-1307, USA.
  */
+
 
 // this classes require cpufreq library (debian package: libcpufreq-dev)
 //
